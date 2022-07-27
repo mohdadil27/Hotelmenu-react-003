@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hotelmenu-react-003/static/css/main.26e112f5.chunk.css",
+    "main.js": "/Hotelmenu-react-003/static/js/main.5ca74aa1.chunk.js",
+    "main.js.map": "/Hotelmenu-react-003/static/js/main.5ca74aa1.chunk.js.map",
+    "runtime-main.js": "/Hotelmenu-react-003/static/js/runtime-main.2038e718.js",
+    "runtime-main.js.map": "/Hotelmenu-react-003/static/js/runtime-main.2038e718.js.map",
+    "static/js/2.ce02c916.chunk.js": "/Hotelmenu-react-003/static/js/2.ce02c916.chunk.js",
+    "static/js/2.ce02c916.chunk.js.map": "/Hotelmenu-react-003/static/js/2.ce02c916.chunk.js.map",
+    "index.html": "/Hotelmenu-react-003/index.html",
+    "precache-manifest.54acb517b49c19835abab05fa6433f37.js": "/Hotelmenu-react-003/precache-manifest.54acb517b49c19835abab05fa6433f37.js",
+    "service-worker.js": "/Hotelmenu-react-003/service-worker.js",
+    "static/css/main.26e112f5.chunk.css.map": "/Hotelmenu-react-003/static/css/main.26e112f5.chunk.css.map",
+    "static/js/2.ce02c916.chunk.js.LICENSE.txt": "/Hotelmenu-react-003/static/js/2.ce02c916.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2038e718.js",
+    "static/js/2.ce02c916.chunk.js",
+    "static/css/main.26e112f5.chunk.css",
+    "static/js/main.5ca74aa1.chunk.js"
+  ]
+}
